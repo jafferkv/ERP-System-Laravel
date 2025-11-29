@@ -1,4 +1,4 @@
-# **ERP Management System – Laravel + Node.js + React.js**
+# **ERP Management System – Laravel **
 
 A fully customized ERP solution integrating RTA APIs, real-time dashboards, RFID-based payments, and enterprise modules for Job Cards, Finance, HR, ESS, and Administration. Built with scalable backend architecture and responsive frontend interfaces.
 
